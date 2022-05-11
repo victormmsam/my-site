@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #B1D0E0;
+
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-top: 0;
+  font-family: 'Sacramento',cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.top-container{
+
+
+  padding-top: 100px;
+  padding-bottom: 200px;
+  position: relative;
+
+
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+
+.bottom-cloud{
+
+  position: absolute;
+  top: 20%;
+  left: 11%;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 5%;
+  right: 11%;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 30px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-gif{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+
+}
+.climbing-img{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message{
+width: 40%;
+margin: 40px auto 60px;
+}
+.contact-me{
+  margin:auto auto 50px auto;
+}
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  -webkit-box-shadow: 0px 0px 8px #666666;
+  -moz-box-shadow: 0px 0px 8px #666666;
+  box-shadow: 0px 0px 8px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #2c8ecf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2d8510;
+  text-decoration: none;
+}
+
+a{
+  color: #314B2B;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 100px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copy{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px;
+}
+.mario{
+  position: fixed;
+  width: 10%;
+  top: 65%;
+  left: 5%;
+}
+
+
+
+
+
+
+.mario:hover{
+border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+
+
+}
